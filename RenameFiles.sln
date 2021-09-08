@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RenameFiles", "RenameFiles\RenameFiles.csproj", "{BD943F35-7375-4848-BCBB-D283CD95F856}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD943F35-7375-4848-BCBB-D283CD95F856}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD943F35-7375-4848-BCBB-D283CD95F856}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD943F35-7375-4848-BCBB-D283CD95F856}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD943F35-7375-4848-BCBB-D283CD95F856}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02C030C8-7C76-433D-B1C3-C0A656BBB5A3}
+	EndGlobalSection
+EndGlobal
