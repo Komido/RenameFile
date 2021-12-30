@@ -12,6 +12,7 @@ namespace RenameFiles
 {
     class Program
     {
+        // Conferido
         static void Main(string[] args)
         {
             var CurrentDirectory = Directory.GetCurrentDirectory();
